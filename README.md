@@ -2,7 +2,7 @@
 
 Pequeno projeto desenvolvido durante os estudos sobre **Docker e containerização** para Engenharia de Dados. 
 
-A aplicação utiliza Python para consultar a API [Open Notify]((http://api.open-notify.org/iss-now.json)) e exibir no terminal a posição atual da Estação Espacial Internacional (ISS).
+A aplicação utiliza Python para consultar a API [Open Notify](http://api.open-notify.org/iss-now.json) e exibir no terminal a posição atual da Estação Espacial Internacional (ISS).
 
 O principal objetivo foi praticar a criação de uma imagem Docker a partir de um `Dockerfile` e entender o processo de execução de uma aplicação dentro de um container.
 
